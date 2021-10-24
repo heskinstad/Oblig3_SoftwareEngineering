@@ -15,7 +15,7 @@ public class CheckLeapYear {
 
     @Test
     public void Check_Not_Dividable_By_4() {
-        assertEquals(true, Main.isLeapYear(103));
+        assertEquals(false, Main.isLeapYear(103));
     }
 
     @Test
