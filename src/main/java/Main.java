@@ -7,6 +7,5 @@ public class Main {
         }
         return false;
         //AAAA
-        //BBBBBB
     }
 }
