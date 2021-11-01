@@ -1,7 +1,7 @@
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-public class TestCheckLeapYear {
+public class Test_CheckLeapYear {
 
     @Test
     public void Test_Check_Dividable_By_4_Not_100() {
